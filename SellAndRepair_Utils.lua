@@ -6,6 +6,5 @@ function CreateCheckbox(parent, label, defaultValue, callback)
     checkbox:SetChecked(defaultValue)
     checkbox:SetScript("OnClick", callback)
 
-    -- lastElement = checkbox 
     return checkbox
 end

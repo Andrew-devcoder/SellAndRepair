@@ -2,7 +2,7 @@
 ## Title: SellAndRepair
 ## Notes: Automatically sells junk and repairs items at the vendor.
 ## Author: Kisuke
-## Version: 1.0
+## Version: 1.1
 ## SavedVariables: SellAndRepairSettings
 
 SellAndRepair_Global.lua

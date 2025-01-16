@@ -27,6 +27,6 @@ function SellJunkItems()
     end
 
     if not hasJunk then
-        print("No junk items to sell.")
+        return
     end
 end
