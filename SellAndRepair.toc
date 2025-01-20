@@ -1,8 +1,8 @@
 ## Interface: 100105
-## Title: SellAndRepair
+## Title: Sell And Repair
 ## Notes: Automatically sells junk and repairs items at the vendor.
 ## Author: Kisuke
-## Version: 1.1
+## Version: 1.3
 ## SavedVariables: SellAndRepairSettings
 
 SellAndRepair_Global.lua
